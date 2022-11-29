@@ -1,4 +1,6 @@
 ## Run Piecer
+We open-sourced part of the code during the Double-Blind Peer Review.
+
 - Step 1
 
 Download the source code and install the requirements.
